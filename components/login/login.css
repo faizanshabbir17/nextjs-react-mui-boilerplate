@@ -1,0 +1,24 @@
+.walletLogo {
+  max-width: 105px;
+  height: auto;
+}
+.bgWhite {
+  background: #ffffff;
+}
+.bgBlack {
+  background: #000000;
+}
+.backgroundFrame {
+  position: absolute;
+  right: 0;
+}
+.mw78 {
+  max-width: 78px;
+  height: auto;
+}
+.padding12 {
+  padding: 12px 0px;
+}
+.padding8 {
+  padding: 8px 0px;
+}
